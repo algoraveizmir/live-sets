@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editörler
+.vscode/
+.idea/
+*.swp
+*~
+
+# Ses/video render çıktıları (büyük dosyalar repoya girmesin)
+*.wav
+*.aiff
+*.mp4
+*.mov
+
+# Geçici dosyalar
+*.log
+tmp/
