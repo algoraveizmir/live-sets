@@ -16,7 +16,7 @@ yazdıkları kodlarla müzik ve görsel üretti; kodlar eş zamanlı olarak perd
 ## Klasörler
 
 Her sanatçının kodu kendi klasöründe. Klasör adları küçük harf ve tire ile:
-`hasan-metehan-ucar/`, `berken-eren-usar/`, `aybike-ozsoyke/`
+`hasan-metehan-ucar/`, `aybike-ozsoyke/`
 
 Kendi klasörünüze bir `README.md` ekleyin ve şunları yazın:
 
