@@ -31,7 +31,6 @@ sets/
     aybike-ozsoyke/
       set.tidal                # sahnede çalışan kod
       README.md                # ne kullanıldı, nasıl çalıştırılır
-    berken-eren-usar/
     hasan-metehan-ucar/
   2026-xx-xx-sonraki-etkinlik/
 
